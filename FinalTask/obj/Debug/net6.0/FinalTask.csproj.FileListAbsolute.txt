@@ -1,0 +1,15 @@
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\bin\Debug\net6.0\FinalTask.exe
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\bin\Debug\net6.0\FinalTask.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\FinalHW\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
