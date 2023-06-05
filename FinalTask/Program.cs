@@ -19,6 +19,18 @@ for(int i = 0; i < 4; i++)
 
 System.Console.WriteLine("Кол-во ячеек в массиве <= 2 равно " + summ);
 
+string [] Array1 = new string [summ];
+
+for(int i = 0; i < 4; i++)
+{
+    int j = 0;
+    if(Array[i].Length <= 2)
+    {
+        Array1[j] = Array[i];
+        System.Console.WriteLine(Array1[j]);
+        j++;
+    }
+}
 
 
 
